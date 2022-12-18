@@ -15,6 +15,9 @@ LKML discussions:
 
 Smatch:(A static analysis tool for C language)
 
+1. Authored by me: https://repo.or.cz/smatch.git?a=search&h=HEAD&st=author&s=Harshit+Mogalapalli+&.cgifields=sr
+
+2. Ideated/Reported by me: https://repo.or.cz/smatch.git?a=search&h=HEAD&st=commit&s=Harshit+Mogalapalli+&.cgifields=sr
 
 cvehound: https://github.com/evdenis/cvehound (Project page)
 
