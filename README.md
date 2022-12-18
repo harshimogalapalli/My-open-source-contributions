@@ -7,7 +7,7 @@ Linux Kernel:
 
 1. Authored by me: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Harshit+Mogalapalli
 
-2. Reported by me:
+2. Reported by me: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=Reported-by%3A+Harshit+Mogalapalli
 
 LKML discussions:
 
